@@ -20,6 +20,8 @@ a{color:#F2F0EB}a:hover{color:#FFFFFF}
 .tab:hover{border-color:#F2F0EB !important}
 .fx-icon{transition:background-color .25s,color .25s,border-color .25s}.fx-icon:hover{background:#F2F0EB;color:#0B0B0B !important;border-color:#F2F0EB !important}
 </style>
+<script>if(!(window.matchMedia&&matchMedia("(prefers-reduced-motion: reduce)").matches))document.documentElement.classList.add("js")</script>
+<link rel="stylesheet" href="fx.css">
 </head>
 <body>
 
@@ -232,5 +234,6 @@ function set(v){b.forEach(function(x){var on=x.getAttribute('data-f')===v;x.setA
 e.style.display=v==='graduacoes'?'none':'';g.style.display=v==='eventos'?'none':'';}
 b.forEach(function(x){x.addEventListener('click',function(){set(x.getAttribute('data-f'));});});set('todos');})();
 </script>
+<script src="fx.js"></script>
 </body>
 </html>

@@ -13,7 +13,7 @@ Site da **Escola de Muaythai Strike Team**, em Teixeira de Freitas – BA.
 
 ## Links
 
-- Site: https://euartursilva.github.io/strike-team-site/
+- Site (demonstração): https://euartursilva.github.io/strike-team-site/
 - Instagram: https://www.instagram.com/striketeam.teixeira/
 - WhatsApp: https://wa.me/5573991831090
 
